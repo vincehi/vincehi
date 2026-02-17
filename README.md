@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Vince
 
-<!--
-**vincehi/vincehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products that are clean, scalable, and built to last.
 
-Here are some ideas to get you started:
+Full-stack developer focused on architecture, product thinking, and shipping real value — from internal enterprise tools to AI-powered platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Selected Projects
+
+### 🧠 MiniMimic.me  
+AI-powered YouTube thumbnail generator.  
+Founder & Lead Developer — from idea to production.
+
+### 📦 NestJS Standalone Boilerplate  
+Production-ready architecture starter designed for clarity and long-term maintainability.
+
+### 🎛 Audio Sample Manager (Open Source)  
+Modern desktop app built to organize and search audio libraries efficiently.
+
+---
+
+I enjoy designing systems that stay simple as they grow.
+
+If you're building something ambitious and need someone who cares about both code quality and business impact — let's connect.
+
+🔗 All my links: https://pim.ms/links-in-bio
